@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.silk {
+  font-family: 'Silkscreen', cursive;
+}
+
+.normalFont {
+  font-family: 'Source Code Pro', monospace;
+}
